@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note default='true' class='icon' xmlns='http://www.lotus.com/dxl'
+	version='9.0' maintenanceversion='1.0' replicaid='83257C6E00470FF4'>
+	<noteinfo noteid='126' unid='DBC07AAF542E262483257C6400452A47'
+		sequence='17'>
+		<created>
+			<datetime dst='true'>20140118T103528,07-02</datetime>
+		</created>
+		<modified>
+			<datetime dst='true'>20140206T071853,13-02</datetime>
+		</modified>
+		<revised>
+			<datetime dst='true'>20140206T071853,12-02</datetime>
+		</revised>
+		<lastaccessed>
+			<datetime dst='true'>20140206T071853,12-02</datetime>
+		</lastaccessed>
+		<addedtofile>
+			<datetime dst='true'>20140128T105611,89-02</datetime>
+		</addedtofile>
+	</noteinfo>
+	<updatedby>
+		<name>CN=Administrator/O=Savoir</name>
+		<name>CN=DarthVader/O=NineBee</name>
+		<name>CN=Administrator/O=NineBee</name>
+		<name>CN=Administrator/O=LAB</name>
+		<name>CN=Desenvolvimento/O=LAB</name>
+		<name>CN=Administrator/O=LAB</name>
+		<name>CN=Admin Notes/O=Desenv</name>
+		<name>CN=D5800SD154/O=Desenv</name>
+		<name>CN=HomeWork/O=savoirconsultoria</name>
+		<name>CN=DarthVader/O=NineBee</name>
+	</updatedby>
+	<wassignedby>
+		<name>CN=DarthVader/O=NineBee</name>
+	</wassignedby>
+	<item name='IconBitmap' summary='true' sign='true'>
+		<rawitemdata type='6'>
+			AiAgAQAA///////wD///4Af//8AD//4AAH/8AAA/+AAAH/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAA
+			D+AAAAfAAAADgAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAcAAAAPwAAAP8AAAD/AAAA/wAAAP
+			+AAAH/wAAD//8A////gf//////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAA
+			DxERERHwAAAAAAAAAAAAAPEd3d3RHwAAAAAAAAAAD//x3Xd33R//8AAAAAAAAPEREdd3d30RER8A
+			AAAAAA8R3d3Xd3d93d0R8AAAAADxHXd913d3fdd30R8AAAAA8dd3fdd3d33Xd30fAAAAAPHXd33X
+			d3d913d9HwAAAADx13d913d3fdd3fR8AAAAA8dd3fdd3d33Xd30fAAAAAPHXd33Xd3d913d9HwAA
+			AA/x13d913d3fdd3fR/wAADxEdd3fdd3d33Xd30RHwAPEd13d33Xd3d913d33RHw8R13d3d913d3
+			fdd3d3fRH/HXd3d3fdd3d33Xd3d3fR/x13d3d33Xd3d913d3d30f8dd3d3fR13d3fR13d3d9H/Ed
+			3d3dEdd3d30R3d3d0R8PEREd3dEd3d3RHd3RERHwAP/x13d9Ed3dEdd3fR//AAAA8dd3fR13d9HX
+			d30fAAAAAPHXd33Xd3d913d9HwAAAADx13d913d3fdd3fR8AAAAA8R3d0dd3d30d3dEfAAAAAA8R
+			EREdd3fRERER8AAAAAAA////Ed3dEf///wAAAAAAAAAAAPERER8AAAAAAAAAAAAAAAAP///wAAAA
+			AAAAUEECICABAAD/////+A4DgA==
+</rawitemdata>
+	</item>
+	<item name='$Flags'>
+		<text>J7</text>
+	</item>
+	<item name='$Daos' sign='true'>
+		<text>0</text>
+	</item>
+	<item name='$TITLE'>
+		<text>Controle de Atividades Bradesco Seguros</text>
+	</item>
+</note>
+
